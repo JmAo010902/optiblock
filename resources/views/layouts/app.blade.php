@@ -74,7 +74,11 @@
         @yield('content')
     </div>
 
+    
     <!-- Scripts -->
     <script src="{{ asset('public/js/app.js') }}"></script>
+    <!-- Tidio Chat Integration -->
+    <script src="//code.tidio.co/06t6dcdluuslami54fr6vbhunqptj7mc.js"></script>
+
 </body>
 </html>

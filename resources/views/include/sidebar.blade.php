@@ -26,6 +26,7 @@
                         <a href="{{ url('/') }}">
                             <i class="material-icons">dashboard</i>
                             <span>Dashboard</span>
+
                         </a>
                     </li>
 
